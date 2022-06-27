@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527475684898",
+    "project_id": "ortalama-yasam-suresi",
+    "storage_bucket": "ortalama-yasam-suresi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527475684898:android:0614b28bbddeedce313c7b",
+        "android_client_info": {
+          "package_name": "com.example.yasam_beklentisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527475684898-uhdeccbr9bg97dsokiofcnihu4o6h71f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL-GRYG_sq-323ZwzQgjIi983BgNSI5KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527475684898-uhdeccbr9bg97dsokiofcnihu4o6h71f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
